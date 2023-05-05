@@ -95,6 +95,41 @@ function Navbar() {
             <button>ADD TO CART</button>
         </div>
      </div>
+     <footer style={{display:"flex",justifyContent:"space-evenly"}}>
+        <div>
+        <h5>COMPANY</h5>
+        <p>About Netmeds</p>
+        <p>Customers Speak</p>
+        <p>In the News</p>
+        <p>Career</p>
+        <p>Contact</p>
+        </div>
+        <div>
+            <h5>OUR POLICIES</h5>
+            <p>Terms and Conditions</p>
+            <p>Privacy Policy</p>
+            <p>Fees and Payments Policy</p>
+            <p>Shipping and Delivery Policy</p>
+            <p>Return, Refund and Cancellation Policy</p>
+        </div>
+       <div>
+        <h5>SHOPPING</h5>
+        <p>Browse by A-Z</p>
+        <p>Browse by Manufacturers</p>
+        <p>Health Articles</p>
+        <p>Offers / Coupons</p>
+        <p>FAQs</p>
+       </div>
+       <div>
+        <h5>SOCIAL</h5>
+        <p>Patients Alike</p>
+        <p>Facebook</p>
+        <p>Twitter</p>
+        <p>LinkedIn</p>
+        <p>Youtube</p>
+       </div>
+        
+     </footer>
   </>
 
 );
