@@ -95,6 +95,28 @@ function Navbar() {
             <button>ADD TO CART</button>
         </div>
      </div>
+
+     <div style={{border:"2px solid red",display:"flex", gap:"10px",justifyContent:"space-evenly"}}>
+     <div style={{border:"2px solid green"}}>
+            <img style={{width:"100"}} src="https://newassets.apollo247.com/pub/media/ves/brand/mamypoko120.jpg" alt="" />
+        </div>
+        <div style={{border:"2px solid green"}}>
+            <img style={{width:"100"}} src="https://newassets.apollo247.com/pub/media/ves/brand/onetouch_logo.jpg" alt="" />
+        </div>
+        <div style={{border:"2px solid green"}}>
+            <img style={{width:"100"}} src="https://newassets.apollo247.com/pub/media/ves/brand/mamypoko120.jpg" alt="" />
+        </div>
+        <div style={{border:"2px solid green"}}>
+            <img style={{width:"100"}} src="https://newassets.apollo247.com/pub/media/ves/brand/power_gummies.jpg" alt="" />
+        </div>
+        <div style={{border:"2px solid green"}}>
+            <img style={{width:"100"}} src="https://newassets.apollo247.com/pub/media/ves/brand/protinex_new.jpg" alt="" />
+        </div>
+        <div style={{border:"2px solid green"}}>
+            <img style={{width:"100"}} src="https://newassets.apollo247.com/pub/media/ves/brand/contour_plus.jpg" alt="" />
+        </div>
+        
+     </div>
      <footer style={{display:"flex",justifyContent:"space-evenly"}}>
         <div>
         <h5>COMPANY</h5>
